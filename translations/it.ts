@@ -9,7 +9,7 @@
     </message>
     <message>
         <source>Default resolution</source>
-        <translation>Risoluzione di default</translation>
+        <translation>Risoluzione predefinita</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -63,7 +63,7 @@ Sometimes your connection may not be good enough to handle higher video quality,
 which may lead to problems with video calls.</source>
         <translation>Imposta la risoluzione della tua webcam.
 Più alto è il valore, migliore sarà la qualità del video che vedranno i tuoi amici.
-Nota tuttavia,che per una qualità video migliore è richiesta una connessione ad internet più veloce.
+Nota tuttavia, che per una qualità video migliore è richiesta una connessione ad internet più veloce.
 Può capitare che la tua connessione ad internet non sia abbastanza veloce per gestire qualità video elevate,
 questo può causare problemi con le chiamate video.</translation>
     </message>
@@ -73,7 +73,7 @@ questo può causare problemi con le chiamate video.</translation>
     </message>
     <message>
         <source>Rescan devices</source>
-        <translation>Controlla nuovamente i dispositivi</translation>
+        <translation>Riesegui la scansione dei dispositivi</translation>
     </message>
     <message>
         <source>Test Sound</source>
@@ -513,7 +513,7 @@ questo può causare problemi con le chiamate video.</translation>
     </message>
     <message>
         <source>Portable</source>
-        <translation>Potabile</translation>
+        <translation>Portabile</translation>
     </message>
     <message>
         <source>Connection Settings</source>
@@ -579,7 +579,7 @@ questo può causare problemi con le chiamate video.</translation>
     </message>
     <message>
         <source>Enable LAN discovery</source>
-        <translation>Attivare la scoperta della LAN</translation>
+        <translation>Abilita il rilevamento della LAN</translation>
     </message>
 </context>
 <context>
